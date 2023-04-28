@@ -43,5 +43,5 @@
 
 <p width="100%">
   <img align="left" width="150px" height="150px" src="imggitleft.gif"/>
-  <img align="right" width="150px" height="150px" src="tumblr_mbk57gVUiE1rfjowdo1_500.gif"/>
+  <img align="right" width="150px" height="150px" src="imggifright.gif"/>
 </p>
